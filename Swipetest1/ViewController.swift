@@ -3,7 +3,7 @@
 //  Swipetest1
 //
 //  Created by Stéphane Trouvé on 15/02/2021.
-//
+//  Jupiler League
 
 import UIKit
 import CoreXLSX
